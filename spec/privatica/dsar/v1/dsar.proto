@@ -27,4 +27,4 @@ option php_namespace = "Privatica\\Dsar\\V1";
 
 // The Data Subject Access Request Response API is a service that allows clients
 // to automate retrieving user data across storage systems.
-service Dsar {}
+service DsarService {}
