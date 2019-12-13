@@ -21,8 +21,8 @@ Privatica gRPC Service allows to automate Data Subject Access Request Response b
 
 ## Features
 
-* Progressive Web UI for DPO's and Compliance Officers to do [KYC (Know your customer)](https://en.wikipedia.org/wiki/Know_your_customer) and keep track of requests and its execution.
-* Secure cloud-native gRPC Service to manage data across third-party systems.
+- Progressive Web UI for DPO's and Compliance Officers to do [KYC (Know your customer)](https://en.wikipedia.org/wiki/Know_your_customer) and keep track of requests and its execution.
+- Secure cloud-native gRPC Service to manage data across third-party systems.
 
 ## License
 
